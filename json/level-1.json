@@ -1,0 +1,252 @@
+{
+    "1": {
+        "r": 1,
+        "c": 1,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "2": {
+        "r": 1,
+        "c": 2,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "3": {
+        "r": 1,
+        "c": 3,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "4": {
+        "r": 1,
+        "c": 4,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "5": {
+        "r": 1,
+        "c": 5,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "6": {
+        "r": 2,
+        "c": 1,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "7": {
+        "r": 2,
+        "c": 2,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "8": {
+        "r": 2,
+        "c": 3,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "9": {
+        "r": 2,
+        "c": 4,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "10": {
+        "r": 2,
+        "c": 5,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "11": {
+        "r": 3,
+        "c": 1,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "12": {
+        "r": 3,
+        "c": 2,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "13": {
+        "r": 3,
+        "c": 3,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "14": {
+        "r": 3,
+        "c": 4,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "15": {
+        "r": 3,
+        "c": 5,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "16": {
+        "r": 4,
+        "c": 1,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "17": {
+        "r": 4,
+        "c": 2,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "18": {
+        "r": 4,
+        "c": 3,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "19": {
+        "r": 4,
+        "c": 4,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "20": {
+        "r": 4,
+        "c": 5,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "21": {
+        "r": 5,
+        "c": 1,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "22": {
+        "r": 5,
+        "c": 2,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "23": {
+        "r": 5,
+        "c": 3,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "24": {
+        "r": 5,
+        "c": 4,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    },
+    "25": {
+        "r": 5,
+        "c": 5,
+        "data": {
+            "type": 0,
+            "saturation": 0,
+            "inhabited": false
+        },
+        "img": "https://devonbrown13.github.io/assets/soil-0.png"
+    }
+}
